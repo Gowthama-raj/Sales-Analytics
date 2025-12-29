@@ -1,0 +1,1 @@
+Analyze the popularity trends of top songs over time. • Compare explicit vs non-explicit song distributions. • Measure artist performance based on total songs and popularity. • Visualize monthly variations in distinct songs and average popularity. • Build an interactive and dynamic dashboard using Power BI visuals and DAX.
